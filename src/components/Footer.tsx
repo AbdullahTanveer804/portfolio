@@ -32,7 +32,7 @@ const Footer = () => {
       <div className="container mx-auto px-4 py-12">
         <div className="max-w-6xl mx-auto">
           {/* Main Footer Content */}
-          <div className="flex md:justify-between gap-8 mb-8">
+          <div className="flex flex-col md:flex-row md:justify-between gap-8 mb-8">
             {/* Brand Section */}
             <div className="space-y-4">
               <h3 className="text-xl font-bold text-gradient">
@@ -86,7 +86,7 @@ const Footer = () => {
             </div>
 
             {/* Contact Info */}
-            <div className="space-y-4">
+            <div className="space-y-4 ">
               <h4 className="text-lg font-semibold">Get In Touch</h4>
               <div className="space-y-3">
                 <div>
