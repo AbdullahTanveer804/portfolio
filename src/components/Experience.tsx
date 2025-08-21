@@ -13,18 +13,18 @@ import Link from "next/link";
 const Experience = () => {
   const experiences = [
     {
-      title: "Data Visualization Early Internship",
+      title: "Data Analyst Trainee Inten",
       company: "Excelerate",
       link: "https://4excelerate.org/",
       type: "Internship",
       period: "August 2025 - Present",
-      status: "Selected",
+      status: "In Progress",
       location: "Remote",
       description:
-        "Selected for data visualization internship focusing on data storytelling and interactive dashboards.",
+        "Leading an 11 member team to collect, clean, and analyze performance from Facebook ads for GlobalShala’s Superhero U event.",
       highlights: [
-        "Working on data storytelling projects",
-        "Creating interactive dashboards",
+        "Recommended discontinuation of 2–3 lowest-performing ads",
+        "Working on data storytelling project",
         "Applying data visualization best practices",
       ],
       icon: Award,
@@ -49,7 +49,7 @@ const Experience = () => {
       color: "accent",
     },
     {
-      title: "Certified Cloud Applied Generative AI Engineer",
+      title: "Certified Agentic & Robotics AI Engineer",
       company: "PIAIC (Panaversity)",
       link: "https://www.piaic.org/",
       type: "Course",
